@@ -10,3 +10,4 @@ RUN comfy model download --url https://huggingface.co/JCTN/JCTN_LORAxl/resolve/9
 
 # copy all input data (like images or videos) into comfyui (uncomment and adjust if needed)
 # COPY input/ /comfyui/input/
+###
